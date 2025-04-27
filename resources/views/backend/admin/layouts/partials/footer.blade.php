@@ -21,7 +21,7 @@
       </div>
       <div>
         Distributed by
-        <a target="_blank" href="https://themewagon.com/">ThemeWagon</a>.
+        <a target="_blank" href="https://www.facebook.com/wasif1ahmed/">Wasif Ahmed</a>.
       </div>
     </div>
   </footer>
